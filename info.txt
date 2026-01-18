@@ -1,7 +1,6 @@
 Práctica 1 – Electiva 2
 
-Este repositorio fue creado como parte de una práctica académica.
+Este repositorio fue creado como parte de una práctica.
 Incluye una rama principal (main) y una rama de desarrollo (dev).
 
 Autor: Darlin Torres
-Repositorio público en GitHub.
